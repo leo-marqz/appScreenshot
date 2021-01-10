@@ -1,0 +1,3 @@
+C:\Users\*****\Downloads\AppScreenshot>pyinstaller --windowed --onefile --icon=./icono.ico app.py
+
+ruta + libreria para crear instalador + windowed  + comando para tener todo en solo archivo + agregar icono y el archivo del proyecto
